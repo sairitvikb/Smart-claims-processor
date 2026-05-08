@@ -79,8 +79,6 @@ A production-style **multi-agent insurance claims system** built with **LangGrap
 
 ```bash
 # 1. Clone and open project folder in VS Code (or any IDE)
-git clone 
-cd aiml-companion/projects/smart-claims-processor
 
 # 2. Create venv + install backend deps in the VSCode (or any IDE)
 uv venv
@@ -117,7 +115,7 @@ uvicorn api.main:app --port 8000
 In a **second terminal (You can do split terminal in the VSCode)**, start the frontend (no venv needed - this is Node.js):
 
 ```bash
-cd aiml-companion/projects/smart-claims-processor/frontend
+
 npm install
 npm run dev        # starts http://localhost:3000
 ```
