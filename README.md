@@ -2,7 +2,7 @@
 
 # Smart Claims Processor
 
-> **Using Claude Code?** This project is fully set up for [Claude Code](https://claude.ai/code) - custom slash commands (`/test`, `/submit-claim`, `/reset-data`), safety hooks, permission rules, and a `CLAUDE.md` context file. See the **[Claude Code Guide](docs/claude-code-guide.md)** to learn how to use skills, hooks, memory, subagents, and more to work with this codebase effectively.
+
 
 
 
